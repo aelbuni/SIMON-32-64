@@ -8,4 +8,3 @@ In this project the 32/64 version of SIMON lightweight block cipher family will 
 
 The security analysis will mostly be applied on the block cipher itself in ECB mode, without forming any specific encryption modes that will increase its security, such as CFB, CTR or CBC.
 
-I hope you will find it useful
